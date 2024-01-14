@@ -5,8 +5,8 @@
     <description>Galería de Arte</description>
     <link>http://localhost:4005/GaleriaDeArte/</link>
     <atom:link href="http://localhost:4005/GaleriaDeArte/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Jan 2024 00:39:54 +0100</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2024 00:39:54 +0100</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 00:45:26 +0100</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:45:26 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
