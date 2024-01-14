@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://carlosreinamendieta.github.io/GaleriaDeArte/gallery/"  
-  - JOURNAL: "https://carlosreinamendieta.github.io/GaleriaDeArte/journal/"
-  - ABOUT: "https://carlosreinamendieta.github.io/GaleriaDeArte/about/"
+  - GALERÍA: "https://carlosreinamendieta.github.io/GaleriaDeArte/gallery/"  
+  - PUBLICACIONES: "https://carlosreinamendieta.github.io/GaleriaDeArte/journal/"
+  - ACERCA DE MÍ: "https://carlosreinamendieta.github.io/GaleriaDeArte/about/"
 
 # All translation keys
 translations:
